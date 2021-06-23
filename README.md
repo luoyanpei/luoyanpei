@@ -8,4 +8,6 @@
 - 👯 会Python、c 、PCB、Rhino、cv
 - 🤔 最近在接触YOLOv4
 - 💬 马上准备电赛
+- 有理想、有目标、有信仰 :sunglasses:
+- 十年饮冰，难凉热血
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
