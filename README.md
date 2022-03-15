@@ -6,8 +6,8 @@
 - 🔭 只狼很六 :scream_cat:
 - 🌱 守望先锋会玩（这个世界不需要守望先锋）:white_check_mark:
 - 👯 会Python、c 、PCB、Rhino、cv
-- 🤔 最近在接触YOLOv4
-- 💬 马上准备电赛
+- 🤔 最近在考研中
+- 💬 电赛拿了一等奖（虽然是省的.....）
 - 有理想、有目标、有信仰 :sunglasses:
 - 十年饮冰，难凉热血 :fire:
  
