@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-快倒闭二本大学在读生
+控制工程硕士在读生
+Master's degree student in control engineering
 # 电子信息科学与技术&控制工程
+# Electronic Information Science & Technology & Control Engineering
 
 - 🔭 Python :scream_cat:
 - 🌱 C & C++:white_check_mark:
